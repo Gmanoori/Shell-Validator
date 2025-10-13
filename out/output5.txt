@@ -1,0 +1,3 @@
+This is the Sample Output.
+
+Sum of digits in 123 is 6

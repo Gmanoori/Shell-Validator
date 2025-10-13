@@ -1,0 +1,9 @@
+This is the Sample Output.
+
+If the file exists:
+
+The file 'sample.txt' exists and its size is 1024 bytes.
+
+If the file does not exist:
+
+The file 'sample.txt' does not exist.

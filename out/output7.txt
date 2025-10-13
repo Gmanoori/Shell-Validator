@@ -1,0 +1,2 @@
+This is the Sample Output.'
+2 raised to the power of 3 is 8
