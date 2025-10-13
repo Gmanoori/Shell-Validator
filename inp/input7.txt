@@ -1,0 +1,3 @@
+Hello This is the Input Provided.
+
+The input is two integers, base and exponent (e.g., base=2, exponent=3).

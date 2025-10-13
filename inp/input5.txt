@@ -1,0 +1,3 @@
+Hello This is the Input Provided.
+
+The input is a single integer, N (e.g., N=123).

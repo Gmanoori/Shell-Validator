@@ -1,0 +1,13 @@
+This is the Task Description. Write your script and save it as prime.sh.
+
+Write a shell script that checks whether a given number is a prime number.
+
+This is the Sample Output.
+
+If the number is prime:
+
+7 is a prime number.
+
+If the number is not prime:
+
+4 is not a prime number.

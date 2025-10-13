@@ -1,0 +1,9 @@
+Hello This is the Input Provided.
+
+The input is a single integer, N (e.g., 5).
+
+This is the Task Description. 
+
+Write a shell script that calculates the factorial of a given number.
+
+Write your script and save it as factorial.sh.

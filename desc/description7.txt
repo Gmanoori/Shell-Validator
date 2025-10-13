@@ -1,0 +1,3 @@
+This is the Task Description. Write your script and save it as test.sh.
+
+Write a shell script that calculates the power of a given number (base^exponent).
