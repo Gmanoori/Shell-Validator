@@ -5,13 +5,13 @@ It’s built for developers and learners who want to practice shell scripting wi
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Automatically tests user scripts against reference outputs  
-- 🧪 Flexible test-case design — add as many as you want  
-- 🐳 Docker-ready environment for isolated execution  
-- 🧰 Modular structure — easily extend for new problems  
-- 🧑‍💻 Perfect for learning, assessments, or code challenges  
+- Automatically tests user scripts against reference outputs  
+- Flexible test-case design — add as many as you want  
+- Docker-ready environment for isolated execution  
+- Modular structure — easily extend for new problems  
+- Perfect for learning, assessments, or code challenges  
 
 ---
 
@@ -65,7 +65,6 @@ docker build -t shell-validator .
 docker run -it --rm shell-validator
 ```
 
-🧪 Example Run
 # Run factorial script tests
 Usage: 
 ```bash
