@@ -17,17 +17,29 @@ It’s built for developers and learners who want to practice shell scripting wi
 
 ## 📂 Project Structure
 Shell-Validator/
+
 ├── userSolution/ # Scripts written by users (your own code)
+
 ├── originalSolution/ # Correct reference scripts (for validation)
+
 ├── test_cases/ # Input/output test cases
+
 │ ├── input/ # Test input files
+
 │ └── output/ # Expected outputs
+
 ├── out/ # Stores generated result logs
+
 ├── scr/ # Internal scripts for validation logic
+
 ├── test_case.sh # Handles running test cases
+
 ├── test.sh # Test your script
+
 ├── INIT.sh # Core validator logic
+
 ├── Dockerfile # Optional Docker setup for running validation
+
 └── .gitignore
 
 
