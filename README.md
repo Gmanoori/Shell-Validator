@@ -68,13 +68,13 @@ We welcome contributions! Here's how you can help:
 1. Fork this repository
 2. Click the Fork button at the top-right corner of this page.
 3. Clone your fork locally
-  git clone https://github.com/<your-username>/Shell-Validator.git
+  - git clone https://github.com/<your-username>/Shell-Validator.git
 4. Create a new branch for your feature or fix
-  git checkout -b feature/my-enhancement
+  - git checkout -b feature/my-enhancement
 5. Make your changes, then commit and push
-  git add .
-  git commit -m "Add my enhancement"
-  git push origin feature/my-enhancement
+  - git add .
+    git commit -m "Add my enhancement"
+    git push origin feature/my-enhancement
 6. Open a Pull Request (PR)
 7. Go to your fork → Pull Requests → New Pull Request
 Describe your changes clearly.
