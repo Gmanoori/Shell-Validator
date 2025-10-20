@@ -20,8 +20,9 @@ It’s built for developers and learners who want to practice shell scripting wi
 1. You place your script in `userSolution/`.  
 2. The correct version lives in `originalSolution/`.  
 3. Test cases (inputs and expected outputs) go under `test_cases/`.  
-4. Run `INIT.sh` or `test.sh` to validate your script.  
-5. Results appear inside `out/` — showing passed and failed tests.
+4. Run `INIT.sh` to start validating logic.
+5. Run `test.sh` to validate your script.  
+6. Results appear inside `out/` — showing passed and failed tests.
 
 ---
 
@@ -68,13 +69,8 @@ We welcome contributions! Here's how you can help:
 1. Fork this repository
 2. Click the Fork button at the top-right corner of this page.
 3. Clone your fork locally
-  - git clone https://github.com/<your-username>/Shell-Validator.git
 4. Create a new branch for your feature or fix
-  - git checkout -b feature/my-enhancement
 5. Make your changes, then commit and push
-  - git add .
-    git commit -m "Add my enhancement"
-    git push origin feature/my-enhancement
 6. Open a Pull Request (PR)
 7. Go to your fork → Pull Requests → New Pull Request
 Describe your changes clearly.
